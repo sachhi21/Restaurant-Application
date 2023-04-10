@@ -1,0 +1,187 @@
+{
+    "restaurants": [
+      {
+        "name": "Roopa Restaurant",
+        "id": 101,
+        "location": "Electronic city",
+        "city": "Bangalore"
+      },
+      {
+        "name": " Dominoz Restaurant ",
+        "id": 102,
+        "location": "Peenya",
+        "city": "Bangalore"
+      },
+      {
+        "name": " pune Restaurant ",
+        "id": 103,
+        "location": "Shivaji Circle",
+        "city": "pune"
+      },
+      {
+        "name": " goa Restaurant ",
+        "id": 104,
+        "location": "north goa",
+        "city": "goa"
+      },
+      {
+        "name": " chennai Restaurant ",
+        "id": 105,
+        "location": "guindy",
+        "city": "chennai"
+      }
+    ],
+    "menus": [
+      {
+        "id": 101,
+        "cuisine": "Indian",
+        "menu": [
+          {
+            "id": 1,
+            "itemName": "Veg Curry",
+            "itemPrice": 150,
+            "type": "veg"
+          },
+          {
+            "id": 2,
+            "itemName": "Non-Veg Curry",
+            "itemPrice": 200,
+            "type": "nonveg"
+          },
+          {
+            "id": 3,
+            "itemName": "Veg Biryani",
+            "itemPrice": 180,
+            "type": "veg"
+          },
+          {
+            "id": 4,
+            "itemName": "Non-Veg Biryani",
+            "itemPrice": 250,
+            "type": "nonveg"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "cuisine": "Italian",
+        "menu": [
+          {
+            "id": 5,
+            "itemName": "Veg Pizza",
+            "itemPrice": 300,
+            "type": "veg"
+          },
+          {
+            "id": 6,
+            "itemName": "Non-Veg Pizza",
+            "itemPrice": 350,
+            "type": "nonveg"
+          },
+          {
+            "id": 7,
+            "itemName": "Veg Pasta",
+            "itemPrice": 250,
+            "type": "veg"
+          },
+          {
+            "id": 8,
+            "itemName": "Non-Veg Pasta",
+            "itemPrice": 300,
+            "type": "nonveg"
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "cuisine": "Indian",
+        "menu": [
+          {
+            "id": 1,
+            "itemName": "Veg Curry",
+            "itemPrice": 150,
+            "type": "veg"
+          },
+          {
+            "id": 2,
+            "itemName": "Non-Veg Curry",
+            "itemPrice": 200,
+            "type": "nonveg"
+          },
+          {
+            "id": 3,
+            "itemName": "Veg Biryani",
+            "itemPrice": 180,
+            "type": "veg"
+          },
+          {
+            "id": 4,
+            "itemName": "Non-Veg Biryani",
+            "itemPrice": 250,
+            "type": "nonveg"
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "cuisine": "Indian",
+        "menu": [
+          {
+            "id": 1,
+            "itemName": "Veg Curry",
+            "itemPrice": 150,
+            "type": "veg"
+          },
+          {
+            "id": 2,
+            "itemName": "Non-Veg Curry",
+            "itemPrice": 200,
+            "type": "nonveg"
+          },
+          {
+            "id": 3,
+            "itemName": "Veg Biryani",
+            "itemPrice": 180,
+            "type": "veg"
+          },
+          {
+            "id": 4,
+            "itemName": "Non-Veg Biryani",
+            "itemPrice": 250,
+            "type": "nonveg"
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "cuisine": "Indian",
+        "menu": [
+          {
+            "id": 1,
+            "itemName": "Veg Curry",
+            "itemPrice": 150,
+            "type": "veg"
+          },
+          {
+            "id": 2,
+            "itemName": "Non-Veg Curry",
+            "itemPrice": 200,
+            "type": "nonveg"
+          },
+          {
+            "id": 3,
+            "itemName": "Veg Biryani",
+            "itemPrice": 180,
+            "type": "veg"
+          },
+          {
+            "id": 4,
+            "itemName": "Non-Veg Biryani",
+            "itemPrice": 250,
+            "type": "nonveg"
+          }
+        ]
+      }
+    ]
+  }
+  
